@@ -3,7 +3,7 @@
   background-size: cover;
 }
 #portfolio {
-  background: url("https://cdn.pixabay.com/photo/2016/03/26/13/09/organic-1280537_960_720.jpg") no-repeat;
+  background: url("https://cdn.pixabay.com/photo/2016/03/26/13/11/paint-1280557_960_720.jpg") no-repeat;
  background-size: cover;
 }
 .fill-viewport {
@@ -22,6 +22,6 @@ p {
   display: block;
   margin: auto;
   margin-top: 0.5rem;
-  width: 90%;
-  height: 90%;
+  width: 85%;
+  height: 85%;
 }
